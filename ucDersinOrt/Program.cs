@@ -19,4 +19,4 @@ else if (dersOrt < 50)
     Console.WriteLine("Öğrenci Kalmıştır");
 }
 
-Console.ReadKey();
+Console.Read();
